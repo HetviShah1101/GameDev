@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DB8D73A4-815E-691A-467F-E6984A2D9C47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/cameraMotion.cs">
+    <Files>
+      <File FileName="Assets/Scripts/vehicleMovement.cs" Line="11" Column="14" />
+      <File FileName="Assets/Scripts/cameraMotion.cs" Line="16" Column="14" />
+      <File FileName="Assets/Scripts/obstacleVehicles.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week2 - task1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="vehicleMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7d93dc0-8059-410f-9f4e-d01ef9513e8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
