@@ -14,6 +14,6 @@ Task 1 - Car Prototype: <br/>
     Web GL Link - https://play.unity.com/mg/other/car-prototype-10 <br/>                                                                                                                GitHub Link - https://github.com/HetviShah1101/GameDev/tree/main/Week2%20-%20task1 <br/>
 
 Task 2 - Plane Prototype: <br/>
-   Web GL Link - https://play.unity.com/mg/other/car-prototype-9
+   Web GL Link - https://play.unity.com/mg/other/car-prototype-9 <br/>  
   GitHub Link - https://github.com/HetviShah1101/GameDev/tree/main/Week2%20-%20Task2
   
